@@ -4,6 +4,9 @@
   "version": "0.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "tsup index.ts --format esm --dts",
     "release": "npm run build && npx changeset publish",
