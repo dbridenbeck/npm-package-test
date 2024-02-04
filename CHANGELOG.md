@@ -1,5 +1,11 @@
 # darren-b-test-npm-package
 
+## 0.0.3
+
+### Patch Changes
+
+- 8532c7a: just trying to publish via actions!
+
 ## 0.0.2
 
 ### Patch Changes
