@@ -6,6 +6,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsup index.ts --format esm --dts",
+    "release": "npm run build && npx changeset publish",
     "lint": "tsc"
   },
   "devDependencies": {
