@@ -23,6 +23,5 @@ jobs:
         with: 
           publish: npm run build
         env: 
-        # test comment to see if this publishes npm package?
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
