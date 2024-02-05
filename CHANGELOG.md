@@ -1,5 +1,11 @@
 # darren-b-test-npm-package
 
+## 0.2.2
+
+### Patch Changes
+
+- 4486ad3: export type i guess
+
 ## 0.2.1
 
 ### Patch Changes
