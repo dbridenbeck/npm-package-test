@@ -1,0 +1,1 @@
+export { PerformantContentfulImage } from "./PerformantContentfulImage"
