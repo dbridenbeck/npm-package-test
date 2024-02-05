@@ -1,5 +1,11 @@
 # darren-b-test-npm-package
 
+## 0.1.0
+
+### Minor Changes
+
+- 860574e: add babel, jest, storybook, rollup, prime for react component publishing
+
 ## 0.0.3
 
 ### Patch Changes
