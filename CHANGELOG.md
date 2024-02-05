@@ -1,5 +1,11 @@
 # darren-b-test-npm-package
 
+## 0.2.3
+
+### Patch Changes
+
+- b26e4b6: add .npmignore
+
 ## 0.2.2
 
 ### Patch Changes
