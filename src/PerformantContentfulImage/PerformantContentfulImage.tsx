@@ -1,6 +1,6 @@
 import * as React from "react"
 
-type PerformantContentfulImageType = {
+export type PerformantContentfulImageType = {
   whatever?: string
 }
 
