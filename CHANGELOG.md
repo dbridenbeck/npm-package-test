@@ -1,5 +1,11 @@
 # darren-b-test-npm-package
 
+## 0.2.1
+
+### Patch Changes
+
+- e10adad: add a type to see if it exports correctly
+
 ## 0.2.0
 
 ### Minor Changes
