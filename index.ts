@@ -1,4 +1,1 @@
-export const add = (a: number, b: number) => {
-  console.log({a})
-  return a + b
-}
+export {PerformantContentfulImage} from "./src"
