@@ -2,7 +2,7 @@
   "name": "darren-b-test-npm-package",
   "license": "MIT",
   "author": "DarrenBridenbeck",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "dist/cjs/bundle.js",
   "module": "dist/esm/bundle.js",
   "types": "dist/index.d.ts",
