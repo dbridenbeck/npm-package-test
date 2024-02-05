@@ -1,5 +1,11 @@
 # darren-b-test-npm-package
 
+## 0.2.0
+
+### Minor Changes
+
+- c3724e1: correct root index export to provide react component
+
 ## 0.1.0
 
 ### Minor Changes
